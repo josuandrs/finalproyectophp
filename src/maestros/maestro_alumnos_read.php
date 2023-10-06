@@ -150,7 +150,7 @@ th {
 
 
                 <body>
-                    <h1>Tabla Clase Guarani</h1>
+                    <h1>Tabla Clases</h1>
                     <table>
                         <tr>
                             <th>ID</th>

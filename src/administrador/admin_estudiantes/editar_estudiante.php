@@ -97,8 +97,7 @@
             </div>
             <ul class="mt-6 space-y-4">
                 <li class="border-t border-b border-gray-700 py-4">
-                    <h4 class="py-2 px-4">Admin</h4>
-                    <p>Administrador</p>
+                    <h4 class="py-2 px-4">Administrador</h4>|
                 </li>
            
             <li class="separator-horizontal"></li>

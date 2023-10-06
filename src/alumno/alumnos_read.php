@@ -136,7 +136,7 @@ th {
                 <h1 class="text-2xl font-medium text-gray-700">Lista de Alumno</h1>
 
                 <div class="flex gap-1">
-                    <a href="./vAdmin.php">
+                    <a href="./vista_estudiante.php">
                         <p class="text-blue-500">Home</p>
                         <li><a href="editar_perfil.php?email=<?php echo $email; ?>">Perfil</a></li>
 
@@ -148,7 +148,7 @@ th {
 
 
                 <body>
-                    <h1>Tabla Clase Guarani</h1>
+                    <h1>Tabla Clases </h1>
                     <table>
                         <tr>
                             <th>ID</th>

@@ -163,14 +163,6 @@ input[type="submit"]:hover {
                             </div>
                         </a>
                         <hr>
-                        <form action="/actions/cerrar_sesion.php">
-                            <div class="flex gap-3 px-4 py-3 text-red-500">
-                                <span class="material-symbols-outlined cursor-none">door_open</span>
-                                <button type="submit">
-                                    <p>Logout</p>
-                                </button>
-                            </div>
-                        </form>
                     </div>
                 </div>
 
