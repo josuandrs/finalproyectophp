@@ -83,7 +83,7 @@ th {
         <!-- Barra de navegación izquierda -->
         <div class="flex items-center space-x-3">
             <span id="menu-icon"
-                class="material-symbols-outlined text-gray-600 text-lg cursor-pointer hover:text-gray-800">menu</span>
+                class="material-symbols-outlined text-gray-600 text-lg cursor-pointer hover:text-gray-800">Menu</span>
             <h1 class="text-white text-lg font-medium">Home</h1>
         </div>
         <div class="flex space-x-2 items-center ml-auto mr-4">
@@ -112,7 +112,6 @@ th {
             <ul class="mt-6 space-y-4">
                 <li class="border-t border-b border-gray-700 py-4">
                     <h4 class="py-2 px-4">Alumno</h4>
-                    <p>Alumno</p>
                 </li>
            
             <li class="separator-horizontal"></li>

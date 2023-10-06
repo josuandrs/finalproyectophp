@@ -89,7 +89,7 @@ WHERE maestroID = '$id_maestro'");
                 <div class="p-[20px] pt-6 flex flex-col gap-4">
                     <h1 class="text-[#9c9fa1] w-[100%] flex justify-center font-semibold">MENU MAESTRO</h1>
                     <a href="alumnos.php" class="flex gap-3">
-                        <span class="material-symbols-outlined text-[#9c9fa1]">school</span>
+                        <span class="material-symbols-outlined text-[#9c9fa1]">Escuela</span>
                         <h2 class="text-[#9c9fa1] font-medium">Alumnos</h2>
                     </a>
                 </div>
